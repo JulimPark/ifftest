@@ -2,3 +2,5 @@ baseURL = 'https://julimpark.github.io/ifftest/'
 languageCode = 'en-us'
 title = '수학클리닉+필요와충분'
 theme = 'ananke'
+author = "James"
+copyright = "&copy; 2023. All rights reserved."
